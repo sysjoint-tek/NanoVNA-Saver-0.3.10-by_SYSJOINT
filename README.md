@@ -17,6 +17,16 @@ points, and generally display and analyze the resulting data.
 Latest Changes
 --------------
 
+### Changes in this version
+
+- Support SV4401A,JNCRadio VNA 3G
+
+- Fixed the crash caused by the backspace of the custom scan points edit box.
+- Nanovna-F V2 valid data points add 151,201 options
+- customize the number of data points,At present, adaptation is only 
+  made on NanoVNA-F V2, other versions need to define the configurable 
+  maximum and minimum values in their respective "NanoVNAxx".py
+
 ### Changes in v0.3.10
 
 - Default Band ranges for 5 and 9cm
